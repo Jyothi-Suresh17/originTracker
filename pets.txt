@@ -5,3 +5,6 @@ aishim the parrot
 tithle the butterfly 
 mocha the pig
 pyu the doggie
+stephy the rat
+bomie the pig
+muttu the hamster
